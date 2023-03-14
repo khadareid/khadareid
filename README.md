@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi ,I'm Cabdiraxmaan cabdilaahi
 
-<!--
-**khadareid/khadareid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![T](https://komarev.com/ghpvc/?username=your-github-khadareid&color=blueviolet&style=flat-square)
 
-Here are some ideas to get you started:
+<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=khadareid&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<br />
+
+<br />
