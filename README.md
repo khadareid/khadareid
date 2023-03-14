@@ -1,4 +1,4 @@
-# Hi ,I'm Cabdiraxmaan cabdilaahi
+# Hi ,I'm khadareid
 
 ![T](https://komarev.com/ghpvc/?username=your-github-khadareid&color=blueviolet&style=flat-square)
 
