@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋 there , I'm Abdullah</h1>
+<h1 align="center">Hi 👋 there , I'm khadareid</h1>
 <h3 align="center">A passionate Full-Stack developer from somalia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Hello i'm Abdullah i'm full-stack developer**
 
-- 📫 How to reach me **cabilahi0099@gmail.com**
+- 📫 How to reach me **khadareid@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
 
