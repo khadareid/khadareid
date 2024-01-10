@@ -20,9 +20,9 @@
 <a href="https://www.facebook.com/profile.php?id=100093124170740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Eng Khadar Eid" height="30" width="40" /></a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng10&show_icons=true&locale=en&layout=compact" alt="khadareid" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadareid&show_icons=true&locale=en&layout=compact" alt="khadareid" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng10&show_icons=true&locale=en" alt="khadareid" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadareid&show_icons=true&locale=en" alt="khadareid" /></p> -->
 
       
 
