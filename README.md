@@ -26,7 +26,7 @@
 
       
 
-<!-- ![T](https://komarev.com/ghpvc/?username=your-github-egn10&color=blueviolet&style=flat-square) -->
+<!-- ![T](https://komarev.com/ghpvc/?username=your-github-khadareid&color=blueviolet&style=flat-square) -->
 <br>
 <img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=khadareid&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
