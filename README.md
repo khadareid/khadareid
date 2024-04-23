@@ -21,11 +21,7 @@
 <a href="https://github.com/khadareid" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Khadar Eid" height="30" width="80" /></a>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadareid&show_icons=true&locale=en&layout=compact" alt="Khadar Eid" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadareid&show_icons=true&locale=en" alt="Khadar Eid" /></p> -->
-
-<!-- ![T](https://komarev.com/ghpvc/?username=your-github-egn10&color=blueviolet&style=flat-square) -->
 <br>
 <img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=khadareid&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
