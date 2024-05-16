@@ -22,8 +22,6 @@
 </p>
 
 
-<br>
-<img width="47%" align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=khadareid&theme=shades-of-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid&layout=compact" />
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=khadareid&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
