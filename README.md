@@ -22,5 +22,5 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=khadareid&show_icons=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=khadareid_&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid_&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
