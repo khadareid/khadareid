@@ -21,7 +21,6 @@
 <a href="https://github.com/khadareid" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Khadar Eid" height="30" width="80" /></a>
 </p>
 
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=khadareid&show_icons=true&hide_border=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
