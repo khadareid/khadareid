@@ -25,3 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khadareid&show_icons=true&hide_border=true&theme=radical" alt="Khadar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=khadareid1&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadareid&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
