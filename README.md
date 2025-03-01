@@ -1,15 +1,30 @@
 <h1 align="center">👋 Hi there, I'm Khadar Eid</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Developer from Somalia 🌍</h3>
+<h3 align="center">🚀 A Passionate Full-Stack Developer & Tech Enthusiast from Somalia 🌍</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif" alt="Coding" width="600"/>
+</p>
+
+---
 
 ## 🎯 About Me  
-🔭 Currently working as a **Full-Stack Developer**, building scalable web and mobile applications.  
-🌱 Exploring **React Native, TypeScript, and Next.js** to stay ahead of modern development.  
-💼 My expertise includes **JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, Tailwind CSS, Docker, AWS, and more!**  
-💬 Ask me about **Web & Mobile App Development, UI/UX, or Software Architecture.**  
-📫 Reach me at **khadareid@gmail.com**  
-🎮 Fun fact: I love **solving puzzles, playing chess, and coding with lofi music.** 🎵  
+
+🔭 **Currently Working On:**  
+- Full-Stack Web & Mobile Development  
+- Building Scalable SaaS Solutions  
+- Open-source contributions  
+
+🌱 **Currently Learning:**  
+- **React Native, TypeScript, Next.js, AWS, GraphQL**  
+
+💼 **Tech Stack Expertise:**  
+- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript  
+- **Backend:** Node.js, Express.js, Prisma, PostgreSQL, MongoDB  
+- **DevOps:** Docker, AWS, Vercel, Firebase  
+- **Other Skills:** UI/UX Design, Motion Graphics, Git, Agile Methodologies  
+
+📫 **Reach me at:** **khadareid@gmail.com**  
+⚡ **Fun fact:** I enjoy solving puzzles 🧩, playing chess ♟, and coding with lofi music 🎵  
 
 ---
 
@@ -33,18 +48,7 @@
 
 ## 🔥 Tech Stack & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgres,prisma,docker,aws,figma,git,github,vscode" height="60" />
 </p>
 
 ---
@@ -83,11 +87,27 @@
 
 ---
 
+## 📌 Recent Blog Posts  
+📝 **[Building Scalable APIs with Node.js and Prisma](https://dev.to/khadareid/building-scalable-apis-with-nodejs-and-prisma-1a2b)**  
+📝 **[Why TypeScript is a Game Changer for React Developers](https://dev.to/khadareid/why-typescript-is-a-game-changer-for-react-developers-2c3d)**  
+📝 **[How to Optimize Your React App for Better Performance](https://dev.to/khadareid/how-to-optimize-your-react-app-for-better-performance-4e5f)**  
+
+---
+
 ## 🎯 Goals for 2025  
 ✔ Master **React Native & Next.js**  
 ✔ Build **SaaS applications**  
 ✔ Grow my **developer community**  
 ✔ Contribute more to **open-source**  
+
+---
+
+## 💡 What I Offer  
+🚀 **Full-Stack Web Development**  
+📱 **Mobile App Development**  
+🎨 **UI/UX Design & Prototyping**  
+⚡ **Performance Optimization**  
+🔍 **Technical Consulting & Mentorship**  
 
 ---
 
