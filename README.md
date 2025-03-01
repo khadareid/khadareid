@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm Khadar Eid 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Somalia 🌍</h3>
+<h1 align="center">👋 Hi there, I'm Khadar Eid</h1>
+<h3 align="center">🚀 A Passionate Full-Stack Developer from Somalia 🌍</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
 
-🚀 **About Me**  
-🔭 I’m currently working as a **Full-Stack Developer**, building scalable web and mobile applications.  
-🌱 I’m learning **React Native, TypeScript, and Next.js** to stay ahead in modern development.  
-💼 My expertise includes **JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, HTML, CSS, Tailwind CSS, and more.**  
-💬 Ask me about **Full-Stack Development, Mobile App Development, or anything related to programming.**  
+## 🎯 About Me  
+🔭 Currently working as a **Full-Stack Developer**, building scalable web and mobile applications.  
+🌱 Exploring **React Native, TypeScript, and Next.js** to stay ahead of modern development.  
+💼 My expertise includes **JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, Tailwind CSS, Docker, AWS, and more!**  
+💬 Ask me about **Web & Mobile App Development, UI/UX, or Software Architecture.**  
 📫 Reach me at **khadareid@gmail.com**  
-⚡ Fun fact: I love solving puzzles and brain teasers in my free time.  
+🎮 Fun fact: I love **solving puzzles, playing chess, and coding with lofi music.** 🎵  
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🔥 Tech Stack & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
@@ -61,6 +61,14 @@
 
 ---
 
+## 🚀 Projects & Contributions  
+🌟 **[Coreact](https://github.com/khadareid/coreact)** – A modern React UI component library for fast development.  
+💡 **[Invento](https://github.com/khadareid/invento)** – An advanced Inventory Management System using Prisma & PostgreSQL.  
+🔗 **[Go Adds](https://github.com/khadareid/goadds)** – A platform for influencer-based digital advertising.  
+📊 **[FuelSub](https://github.com/khadareid/fuelsub)** – A SaaS-based fuel subsidy management platform.  
+
+---
+
 ## 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadareid&theme=react-dark" alt="GitHub Activity Graph" />
@@ -68,17 +76,10 @@
 
 ---
 
-## 🚀 Projects & Contributions  
-- 🌟 **[Project 1](https://github.com/khadareid/project1)** - Description of project 1  
-- 🚀 **[Project 2](https://github.com/khadareid/project2)** - Description of project 2  
-- 🎯 **[Project 3](https://github.com/khadareid/project3)** - Description of project 3  
-
----
-
 ## 🏆 Achievements  
-🏅 Open-source contributor  
-🎤 Speaker at local tech meetups  
-📖 Lifelong learner in software development  
+🏅 Open-source contributor on multiple repositories.  
+🎤 Speaker at local tech meetups & hackathons.  
+📖 Lifelong learner in software development & cloud computing.  
 
 ---
 
@@ -91,7 +92,7 @@
 ---
 
 ## 🎶 Fun Fact  
-I love listening to **lofi music** while coding and enjoy **chess** during breaks.  
+I enjoy **coding while listening to lofi beats** 🎵 and **playing chess** in my free time. ♟️  
 
 ---
 
