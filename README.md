@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Khadar Eid</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Developer & Tech Enthusiast from Somalia 🌍</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif" alt="Coding" width="600"/>
-</p>
-
 ---
 
 ## 🎯 About Me  
