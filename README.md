@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Khadar Eid</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Developer & Tech Enthusiast from Somalia 🌍</h3>
+<h3 align="center">🚀 A Passionate Full-Stack Developer & Tech Enthusiast 🌍</h3>
 
 ---
 
